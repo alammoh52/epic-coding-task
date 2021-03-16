@@ -1,0 +1,9 @@
+export const WHITE = "white";
+export const BLACK = "black";
+export const AQUAGREEN = "#82d8cf";
+export const GREY = "#79818f"
+export const LESS_GREY = "#d0d3d8"
+export const ENTER_ITEM = "Enter item";
+export const CHOOSE_COLUMN = "Choose column";
+export const BODY_TEXT = 12;
+export const SEARCH = "SEARCH"
