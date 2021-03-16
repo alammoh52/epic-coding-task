@@ -25,6 +25,4 @@ export const LoremText = () => (
   </StyledSpan>
 );
 
-export const SearchItemText = () => (
-  <UpperCaseStyledSpan fontSize={BODY_TEXT}>Search an item</UpperCaseStyledSpan>
-);
+

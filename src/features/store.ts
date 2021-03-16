@@ -48,16 +48,16 @@ const initialState: IState = {
     columns: {
         "1": [
             {
-                title: "Drew",
+                title: "drew",
                 uuid: "00000000-Drew-Drew-Drew-000000000000"
             },
             {
-                title: "John",
+                title: "john",
                 uuid: "00000000-John-John-John-000000000000"
             }
         ],
         "2": [{
-            title: "Nancy",
+            title: "nancy",
             uuid: "00000000-Nancy-Nancy-Nancy-000000000000"
         }]
     },
